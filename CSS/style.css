@@ -1,0 +1,87 @@
+.container{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size : 100% 100%;
+}
+.nv{
+    margin-bottom:  0px;
+    background: rgb(27, 27, 27);
+}
+.srch{
+    float: right;
+    padding: 10px 10px 10px 10px;
+}
+.inp{
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.bn{
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.jumb{
+    height: 100vh;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding-top: 200px;
+    padding-left: 70px;
+    color: rgb(238, 226, 226);
+}
+.topics{
+    /* background: rgb(240, 98, 4); */
+    background: linear-gradient(57deg, #9311df, #f33303);align-items: center;text-align: center;margin-top: 0px;padding: 10px;color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+.set-bg{
+    background: rgb(219, 217, 212);
+    padding: 50px;
+}
+.card{
+    background: white;
+    box-shadow: 0 5px 9px 0 rgba(0,0,0,0.2);
+    margin: 15px 15px 15px 15px;
+    width: 280px;
+    /* border: 250px; */
+border-radius: 2%;
+}
+.card-img{
+    
+    width: 280px;
+    border-radius: 2%;
+}
+.card-body{
+    padding: 15px;
+}
+.about-cont{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.link ul{
+    list-style: none;
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
+.more ul{
+    list-style: none;
+}
+.copy{
+    text-align: center;
+    color: white;
+    background: rgb(24, 23, 23);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card:hover {
+    box-shadow: 0 10px 26px 0 rgba(0,0,0,0.2);
+  }
